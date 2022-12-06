@@ -14,19 +14,19 @@ Url:
 
 ## Project structure
 
-.
-│ .gitignore
-│ index.html
-│ package-lock.json
-│ package.json
-│ README.md
-│ styles.css
-│ styles.css.map
-│ styles.scss
+C:.
+│   .gitignore
+│   index.html
+│   package-lock.json
+│   package.json
+│   README.md
+│   styles.css
+│   styles.css.map
+│   styles.scss
 │
 └───media
-logo.png
-maido.png
+        logo.png
+        maido.png
 
 ## Comments
 
