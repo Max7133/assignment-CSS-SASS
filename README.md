@@ -5,7 +5,7 @@ Refer to this [link](https://preview.themeforest.net/item/maido-multipurpose-gho
 
 ## The result
 
-Url:
+Url: https://maksimpasnitsenkocsstask.netlify.app
 
 ## Technologies
 
@@ -15,18 +15,18 @@ Url:
 ## Project structure
 
 C:.
-│   .gitignore
-│   index.html
-│   package-lock.json
-│   package.json
-│   README.md
-│   styles.css
-│   styles.css.map
-│   styles.scss
+│ .gitignore
+│ index.html
+│ package-lock.json
+│ package.json
+│ README.md
+│ styles.css
+│ styles.css.map
+│ styles.scss
 │
 └───media
-        logo.png
-        maido.png
+logo.png
+maido.png
 
 ## Comments
 
